@@ -10,7 +10,6 @@
 
 Software engineer. I take on projects that stalled out and get them running again.
 
-<!-- EDIT THESE: swap in your real stack/links -->
 ```
 languages   : PHP . Python · Go
 Frameworks  : Laravel
